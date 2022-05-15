@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tamuna_odisharia</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="yourname">yourName</string>
+    <string name="login">Login</string>
+    <string name="enter_your_name">enter your name</string>
+</resources>
